@@ -1,4 +1,4 @@
-# Projeto Sorteio de Números 🎲
+# Projeto Megasena
 
 Aplicativo Android simples que realiza o sorteio de 6 números aleatórios de 1 a 60.
 
